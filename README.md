@@ -1,8 +1,8 @@
 ## Hi, I'm Tau J. Marake
 
-💻 Full-Stack Developer | 🎓 IT Graduate @CUT, fs
+💻 Full-Stack Software Application Developer | 🎓 IT Graduate @CUT, fs
 
-🚀 Full-Stack Software Application Developer & freelance software builder<br/>
+🚀 Full-stack developer & freelance software builder<br/>
 🧠 I develop modern web and mobile applications, scalable backend systems, and clean, user-friendly interfaces<br/>
 ⚙️ I build apps, explore cybersecurity, and create practical software solutions that solve real problems
 
