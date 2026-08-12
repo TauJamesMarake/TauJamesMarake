@@ -1,5 +1,5 @@
-💻 ## Full-Stack Software Application Developer
-🎓 ## IT Graduate @CUT
+## 💻 Full-Stack Software Application Developer
+## 🎓 IT Graduate @CUT
 
 🚀 Full-stack developer & freelance software builder<br/>
 🧠 I develop modern web and mobile applications, scalable backend systems, and clean, user-friendly interfaces<br/>
